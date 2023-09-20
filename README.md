@@ -1,5 +1,5 @@
 # Course Projects
-This is a collection of some of my course projects from college.
+## This is a collection of some of my course projects from my Undergrad in Bioinformatics at IUPUI.
 
 ---
 # 2023 (Machine Learning)
